@@ -111,6 +111,20 @@
             "keyStrokeTimeStamp": "Mon Jun 07 2021 21:08:57",
             "keyStrokeInfo": "../img/",
             "position": "250,20"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Jun 07 2021 21:19:40",
+            "keyStrokeInfo": "",
+            "position": "250,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Jun 07 2021 21:19:40",
+            "keyStrokeInfo": "hero-bg",
+            "position": "250,27"
         }
     ]
 }
