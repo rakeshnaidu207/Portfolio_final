@@ -125,6 +125,76 @@
             "keyStrokeTimeStamp": "Mon Jun 07 2021 21:19:40",
             "keyStrokeInfo": "hero-bg",
             "position": "250,27"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 08 2021 09:59:38",
+            "keyStrokeInfo": "",
+            "position": "250,33"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 08 2021 09:59:38",
+            "keyStrokeInfo": "",
+            "position": "250,32"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 08 2021 09:59:38",
+            "keyStrokeInfo": "",
+            "position": "250,31"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 08 2021 09:59:39",
+            "keyStrokeInfo": "",
+            "position": "250,30"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 08 2021 09:59:39",
+            "keyStrokeInfo": "",
+            "position": "250,29"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 08 2021 09:59:39",
+            "keyStrokeInfo": "",
+            "position": "250,28"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 08 2021 09:59:39",
+            "keyStrokeInfo": "",
+            "position": "250,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 08 2021 09:59:40",
+            "keyStrokeInfo": "t",
+            "position": "250,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 08 2021 09:59:40",
+            "keyStrokeInfo": "y",
+            "position": "250,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 08 2021 09:59:45",
+            "keyStrokeInfo": "ty.jpg",
+            "position": "250,27"
         }
     ]
 }
